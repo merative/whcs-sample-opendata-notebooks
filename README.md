@@ -4,10 +4,9 @@ This github repository will contain sample Jupyter notebooks that are provided i
 
 For more information visit:
 * [IBM Watson Health](https://www.ibm.com/watson-health)
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/ibm-covid-nav)
 
 Licenses and Legal Notices:
 * [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
 * [COVID-19 Open Research Dataset (CORD-19)](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-03-13/COVID.DATA.LIC.AGMT.pdf)
 * Additional CORD-19 licensing information is available on the [PMC website](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/), [medRxiv website](https://www.medrxiv.org/submit-a-manuscript) and [bioRxiv website](https://www.biorxiv.org/about-biorxiv).
-* [Legal Notices](legalNotices.pdf)
+* [Legal Notices](Legal_Notices.pdf)
