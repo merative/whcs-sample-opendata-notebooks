@@ -4,6 +4,7 @@ This github repository will contain sample Jupyter notebooks that are provided i
 
 For more information visit:
 * [IBM Watson Health](https://www.ibm.com/watson-health)
+* [IML COVID19 Navigator](https://covid-19-navigator.mybluemix.net/#)
 * [Forum](http://ibm.biz/WHCSCovid19Forum)
 
 Licenses and Legal Notices:
