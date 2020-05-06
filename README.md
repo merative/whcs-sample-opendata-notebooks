@@ -1,6 +1,10 @@
 # IBM Watson Health COVID-19 Notebooks
 
-This github repository will contain sample Jupyter notebooks that are provided in response to the COVID19 crisis.  The COVID-19 Processed Literature Notebook is powered by IBM Watson Insights for Medical Literature using selected literature from CORD19, PubMed Open Access, Medline and ClinicalTrials.gov. This Jupyter notebook is intended to be an example notebook that users, such as data scientists, can use or build upon to conduct analysis using literature data enriched by IBM Annotator For Clinical Data.  
+This github repository contains sample Jupyter notebooks that are provided in response to the COVID19 crisis.
+
+The [**iml-covid-19_sample**]() notebook demonstrates how to use **IBM Watson Insights for Medical Literature** to interface with an enriched covid-19 corpus. Various experiments are provided showing different methods for understanding and querying the corpora.  The various experiments have supporting documentation in the notebook.
+
+The [**COVID-19 Processed Literature Notebook**](https://github.com/IBM/whcs-sample-opendata-notebooks/tree/master/covid19-processed-literature-notebook) is provided as-is. It is intended to be an example notebook that users such as data scientists can use or build upon to perform analysis against the raw data files produced by the Annotator for Clinical Data enrichment process.  
 
 For more information visit:
 * [IBM Watson Health](https://www.ibm.com/watson-health)
