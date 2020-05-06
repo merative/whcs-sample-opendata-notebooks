@@ -1,4 +1,4 @@
-# IBM Watson Insights for Medical Literature COVID-19 Notebook
+# IBM Watson Insights for Medical Literature COVID-19 Sample Notebook
 
 The **iml-covid-19-sample** jupyter notebook demonstrates how to use **IBM Watson Insights for Medical Literature** to interface with an enriched covid-19 corpus. Various experiments are provided showing different methods for understanding and querying the corpora.  The various experiments have supporting documentation in the notebook.
 
