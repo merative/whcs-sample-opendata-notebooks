@@ -1,6 +1,6 @@
 # **Legal Notices**
 
-The IBM Watson™ Insights for Medical Literature | COVID-19 Navigator tool uses selected content from content sources that require licensing.
+The processed literature notebook uses selected content from content sources that require licensing.
 
 **COVID-19 Open Research Dataset (CORD-19)**
 
